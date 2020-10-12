@@ -1,0 +1,21 @@
+{
+  "name": "Exampl_API_Rest",
+  "version": "1.0.0",
+  "description": "Ejemplo de como construir una api rest sencillar en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.0",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
